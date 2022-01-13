@@ -1,9 +1,8 @@
-body{
+.body1{
     width: 80%;
     height: auto;
     margin: auto;
 }
-
 
 .contenitore{
     width: 100%;
@@ -15,6 +14,8 @@ body{
 
 .logo{
     width: 15%;
+    height: auto;
+    margin-left: 10%;
     margin-top: 50px;
 }
 
